@@ -6,7 +6,7 @@
 ### 👩‍💻 About Me
 
 - 🎓 B.Tech Student (Graduating **2028**)
-- 📚 Currently learning: **Python**, **HTML**, **CSS**, **NumPy**, **Pandas**
+- 📚 Currently learning: **Python**, **HTML**, **CSS**
 - 🛠️ Know the basics of **Git** and **GitHub**
 - 🚀 Focused on building **projects** & mastering **core concepts**
 
@@ -17,8 +17,6 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
@@ -30,7 +28,6 @@
 ### 📌 Current Focus
 
 - ⏳ Mastering fundamentals in Python, HTML, CSS
-- 🧠 Practicing Data Tools (NumPy, Pandas, Jupyter)
 - ✨ Building beginner-friendly **web + data projects**
 
 ---

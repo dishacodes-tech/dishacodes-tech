@@ -45,6 +45,3 @@
 
 ---
 
-<p align="center">
-  ✨ Let's grow and build amazing things together! ✨  
-</p>

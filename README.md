@@ -39,12 +39,6 @@
 </p>
 
 
----
-
-### 🌐 Connect With Me
-
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishamahajan1/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dishacodes-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=disha.mahajan2006@gmail.com)
 

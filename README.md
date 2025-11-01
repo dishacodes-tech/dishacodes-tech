@@ -32,12 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats 
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dishacodes-tech&show_icons=true&theme=default" alt="Disha's GitHub stats"/>
-</p>
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/dishacodes-tech)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=disha.mahajan2006@gmail.com)

@@ -27,7 +27,7 @@
 ### Current Focus
 
 -  Mastering fundamentals in Python, HTML, CSS
-- Building beginner-friendly **web + data projects**
+- Building beginner-friendly **Web + Python-based projects**
 
 ---
 

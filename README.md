@@ -6,7 +6,8 @@
 ### 👩‍💻 About Me
 
 -  B.Tech Student (Graduating **2028**)
-- Currently learning: **Python**, **HTML**, **CSS**
+- Currently learning: **Python**
+- Comfortable with **HTML** , **CSS** 
 - Know the basics of **Git** and **GitHub**
 - Focused on building **projects** & mastering **core concepts**
 

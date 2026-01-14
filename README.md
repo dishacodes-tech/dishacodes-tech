@@ -1,19 +1,19 @@
 <h1 align="center"> Disha Mahajan</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineering Student | Python & Web Development</h3>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 B.Tech Student (Graduating **2028**)
-- 📚 Currently learning: **Python**, **HTML**, **CSS**
-- 🛠️ Know the basics of **Git** and **GitHub**
-- 🚀 Focused on building **projects** & mastering **core concepts**
+-  B.Tech Student (Graduating **2028**)
+- Currently learning: **Python**, **HTML**, **CSS**
+- Know the basics of **Git** and **GitHub**
+- Focused on building **projects** & mastering **core concepts**
 
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -24,10 +24,10 @@
 
 ---
 
-### 📌 Current Focus
+### Current Focus
 
-- ⏳ Mastering fundamentals in Python, HTML, CSS
-- ✨ Building beginner-friendly **web + data projects**
+-  Mastering fundamentals in Python, HTML, CSS
+- Building beginner-friendly **web + data projects**
 
 ---
 

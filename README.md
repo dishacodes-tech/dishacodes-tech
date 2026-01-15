@@ -3,7 +3,7 @@
 
 ---
 
-### 👩‍💻 About Me
+###  About Me
 
 -  B.Tech Student (Graduating **2028**)
 - Currently learning: **Python**
